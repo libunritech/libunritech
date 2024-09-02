@@ -4,7 +4,7 @@
 - 💞I'm very much open for any colaboration
 - 📫 reach me on instagram and tiktok @libunritech
 - 😄 Pronouns: Libunri
-- ⚡ Fun fact: I love movies
+  
 
 <!---
 libunritech/libunritech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
